@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b37888c847e44526b18af1aa3d8daab
+labels:
+- DPS
+- DamagePerSecond
+timeCreated: 1433929859
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

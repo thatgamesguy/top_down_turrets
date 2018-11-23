@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a42d60cd79b94affb086f24cbaef024
+labels:
+- TurretDamage
+- Destructible
+- Destruction
+- DestructibleTurret
+- Dead
+timeCreated: 1434020127
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f83f2eb096844964bc50a94b2f8c2e6
+labels:
+- EnemySpawner
+- EnemySpawn
+timeCreated: 1433852784
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

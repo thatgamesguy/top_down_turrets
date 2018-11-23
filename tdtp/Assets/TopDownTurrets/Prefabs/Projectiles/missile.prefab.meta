@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b4d28f621808e416a8a8f1f4c42c8c0d
+labels:
+- Missile
+- HomingMissile
+- MissileTrail
+- BulletTrail
+timeCreated: 1433883247
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

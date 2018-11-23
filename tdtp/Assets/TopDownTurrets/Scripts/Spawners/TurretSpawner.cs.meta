@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 689e0488a820a475da5dd0bb97c80da2
+labels:
+- TurretSpawn
+- TurretSpawner
+- Turret
+timeCreated: 1433860398
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

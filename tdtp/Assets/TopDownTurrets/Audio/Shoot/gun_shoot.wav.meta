@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 75c4f8016e5fc4dcfb4f25c44d028620
+labels:
+- Gun
+- GunShot
+- GunShoot
+- Audio
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: .5
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
